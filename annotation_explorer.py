@@ -35,7 +35,7 @@ class AnnotationExplorer:
                 
     def findAnnnotations(self, annotation_id, bound):
         """
-        annotation_id: id in classes.txt, bound: minimum number of an annotation count that you want in a file.
+        annotation_id: id in classes.txt, bound: minimum number of selected annotations count that you want in a file.
 
         Returns
         -------
